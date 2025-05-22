@@ -51,6 +51,7 @@ Abrir terminal con (windows key)+(R):
 - Si no escuchas música, verifica que el volumen esté activado y que haya salida de audio disponible.
 - Recuerda detener la música al salir del programa.
 - El juego requiere al menos resolución de 1300x650 px para mostrarse correctamente.
+- Si desea observar el código, simplemente abre el archivo ‘toque_fama.py’ con las librerías aclaradas en la sección de REQUISITOS.
 
 
 ## Licencia
